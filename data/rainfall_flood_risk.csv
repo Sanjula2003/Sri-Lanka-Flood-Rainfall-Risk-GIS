@@ -1,0 +1,13 @@
+district,latitude,longitude,date,monthly_rainfall_mm,river_level_m,soil_saturation_percent,population_density,flood_history_count,drainage_condition,flood_risk
+Colombo,6.9271,79.8612,2025-01-05,285,3.8,82,3600,8,Poor,High
+Gampaha,7.0873,79.9990,2025-01-06,260,3.4,78,1700,6,Moderate,High
+Kalutara,6.5854,79.9607,2025-01-07,310,4.1,88,850,9,Poor,High
+Galle,6.0535,80.2210,2025-01-08,240,3.0,74,670,5,Moderate,Medium
+Matara,5.9549,80.5550,2025-01-09,220,2.8,70,640,4,Good,Medium
+Ratnapura,6.7056,80.3847,2025-01-10,340,4.5,92,420,10,Poor,High
+Kegalle,7.2513,80.3464,2025-01-11,295,3.9,84,520,7,Poor,High
+Kandy,7.2906,80.6337,2025-01-12,180,2.2,58,720,3,Moderate,Medium
+Kurunegala,7.4863,80.3647,2025-01-13,130,1.8,45,370,2,Good,Low
+Anuradhapura,8.3114,80.4037,2025-01-14,95,1.4,35,140,1,Good,Low
+Puttalam,8.0362,79.8283,2025-01-15,150,2.1,50,260,3,Moderate,Medium
+Badulla,6.9934,81.0550,2025-01-16,205,2.7,68,300,4,Moderate,Medium
